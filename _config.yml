@@ -1,0 +1,16 @@
+gems:
+  - jekyll-seo-tag
+
+title: Stefan Milton Bache
+
+description: R Courses, R kursus, Data wrangling, Aarhus, Denmark, Danmark
+
+url: stefanbache.dk
+
+author: Stefan Milton Bache
+
+twitter:
+  username: stefanbache
+
+logo: /images/webfront.jpg
+
